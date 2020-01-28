@@ -1,0 +1,2 @@
+# leetcode
+Thinking in LeetCode
